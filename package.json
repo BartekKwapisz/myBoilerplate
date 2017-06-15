@@ -1,0 +1,15 @@
+{
+  "name": "training",
+  "version": "1.0.0",
+  "description": "train git, gulp, babel and other configuration",
+  "main": "bartek.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "train",
+    "configuration"
+  ],
+  "author": "Bartek.K",
+  "license": "ISC"
+}
